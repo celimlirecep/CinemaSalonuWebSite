@@ -19,11 +19,27 @@
 
 .footAlanı{
     height: 300px;
-    background-color: ;
+ 
 }
 
 .araButonu{
     color: white !important;
     border: 3px !important;
     
+}
+#aciklama{
+    display:none;
+}
+
+.kalp{
+    font-size: xx-large;
+    color: black;
+}
+
+.kalp:hover{
+color: red;
+cursor: pointer;
+}
+.kalp:active{
+    color:red;
 }
